@@ -13,7 +13,7 @@ I am devoted to establishing a platform to share resources which can help not ma
 All compulsory and specialised elective courses in **2023/24**：
 <br /> 
 - [x] `BBC5210` Electric and Magnetic Fields (Common)
-- [ ] `BBU6404` Internet Applications (Common)
+- [ ] `BBU6404` Internet Applications (Multimedia)
 - [ ] `EBU5304` Software Engineering (Common)
 - [ ] `EBU5305` Interactive Media Design and Production (Multimedia)
 - [ ] `EBU6230` Image and Video Processing (Multimedia)
